@@ -1,5 +1,12 @@
 package com.company;
 
+/**
+ * This is the driver class for this package.
+ * It creates two instances of the Student class, then prints their name and home state.
+ * Created by jsadi on 11/3/2018
+ * @author Jordan Sadi
+ * @version 2018 1103 1
+ */
 public class Main {
 
     public static void main(String[] args) {
